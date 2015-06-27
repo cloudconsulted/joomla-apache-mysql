@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER Olivier Beaudet <obeaudet@hotmail.com>
+MAINTAINER John Wooten <jwooten@cloudconsulted.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
