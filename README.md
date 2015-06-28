@@ -1,4 +1,4 @@
-joomla-apache-mysql
+joomla-apache-mysql-php
 ==================
 
 An updated image from the kuthz/docker repo. This is a very basic joomla! install to be used to test and demo Joomla builds.
