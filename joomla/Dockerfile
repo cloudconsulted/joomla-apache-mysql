@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER John Wooten <jwooten@cloudconsulted.com>
+MAINTAINER John Wooten/CONSULTED <jwooten@cloudconsulted.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 ENV JOOMLA_VERSION 3.4.1
