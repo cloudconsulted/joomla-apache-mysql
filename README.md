@@ -1,4 +1,4 @@
-[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-logox500.png" align="right">](http://cloudconsulted.com)
+[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-logox500.png">](http://cloudconsulted.com)
 # [Joomla](http://www.joomla.org/) on a LAMP Stack
 > joomla-apache-mysql-php
 * An updated image from the kuthz/docker repo. This is a very basic joomla! install to be used to test and demo Joomla builds.
