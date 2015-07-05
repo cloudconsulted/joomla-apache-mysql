@@ -1,4 +1,4 @@
-[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-app-icon.png" align="right">](http://cloudconsulted.com)
+[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-logo.png" align="right">](http://cloudconsulted.com)
 # [Joomla](http://www.joomla.org/) on a LAMP Stack
 > joomla-apache-mysql-php
 ==================
