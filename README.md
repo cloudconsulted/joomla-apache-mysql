@@ -1,6 +1,7 @@
+[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-app-icon.png" align="right" width="150">](http://cloudconsulted.com)
 joomla-apache-mysql-php
 ==================
-[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-app-icon.png" align="right" width="150">](http://cloudconsulted.com)
+
 
 An updated image from the kuthz/docker repo. This is a very basic joomla! install to be used to test and demo Joomla builds.
 
