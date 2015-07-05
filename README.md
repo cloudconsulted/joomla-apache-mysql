@@ -1,4 +1,4 @@
-[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-app-icon.png" align="right" width="150">](http://cloudconsulted.com)
+[<img src="http://www.cloudconsulted.com/images/site/logos/consulted-app-icon.png" align="right">](http://cloudconsulted.com)
 joomla-apache-mysql-php
 ==================
 
